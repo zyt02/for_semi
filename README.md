@@ -1,6 +1,6 @@
-# Project Title
+# Analytics tools for SEMI
 
-This is for Semi, internal use
+This is for SEMI
 
 ## Description
 
