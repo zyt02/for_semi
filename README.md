@@ -4,7 +4,7 @@ This is for Semi, internal use
 
 ## Description
 
-an simple tool build based on python + streamlit for quick analysis
+a simple tool build based on python + streamlit for quick analysis
 
 `Schedule Status`: complete
 
